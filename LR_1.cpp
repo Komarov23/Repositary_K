@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
 using namespace std;
-
+// edited file
 int main()
 {   
     SetConsoleCP(1251);
